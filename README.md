@@ -1,9 +1,5 @@
 # 📘 JOBSHEET 01 : ALGORITMA, PSEUDOCODE, DAN FLOWCHART
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![Flowgorithm](https://img.shields.io/badge/Flowgorithm-Flowchart-green?logo=diagram&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab&logoColor=white)
-
 ---
 
 ## 👨‍🏫 Dosen Pengampu
@@ -19,16 +15,21 @@
 
 ## 📂 Deskripsi
 Repositori ini berisi pengumpulan tugas **Jobsheet 01** mengenai **Algoritma, Pseudocode, dan Flowchart**.  
-Seluruh implementasi latihan dikerjakan menggunakan **Google Colab Notebook** dalam satu file utama.  
+Praktikum dan penugasan dikerjakan menggunakan **Google Colab Notebook**.  
 
 Materi yang dikerjakan diantaranya:
 - Menampilkan output sederhana (`print`)
-- Operasi aritmatika dasar
-- Konversi waktu (detik → jam:menit:detik)
-- Menghitung rata-rata nilai
-- Menghitung total bayar setelah diskon
-- Visualisasi Flowchart menggunakan **Flowgorithm**
+- Menghitung Luas Segitiga (Rumus Heron)
+- Konversi Suhu Celcius ke Fahrenheit
+- Menghitung Umur Berdasarkan Tahun Lahir
+- Menghitung Luas Lingkaran
+- Menjumlahkan Tiga Bilangan
+- Menghitung Volume Balok
+- Konversi Waktu (detik → jam:menit:detik)
+- Menghitung Rata-rata Nilai Tiga Mata Kuliah
+- Menghitung Total Bayar Setelah Diskon
+- Visualisasi Flowchart menggunakan **Flowgorithm** dan Pseudocode
 
 ---
 
-## 📑 Struktur Repo
+✍️ *Dikerjakan oleh* : **Ahmad Fajril Falah**  ☜( ﾟヮﾟ☜)
